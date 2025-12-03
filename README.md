@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me
 - 🌱 A **Student** and a Full-Stack Webdev & Gamedev enthusiast<br>
 - 📫 Reach me at: **amankalyankar06@gmail.com**
 - ⚡trying to do/be better
